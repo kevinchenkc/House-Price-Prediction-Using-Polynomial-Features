@@ -30,10 +30,10 @@ Dataset source: [Kaggle.com](https://www.kaggle.com/datasets/vikrishnan/boston-h
         - Feature Engineering
             - Correlation Test
             - Domain Knowledge based on EDA
-            - Polynomial Features
+            - `Polynomial Features`
+            - `Evaluation Matrix Comparison (Base Model vs After Polynomial Features)`
         - Feature Selection
             - Splitting Data
             - Training Model -> Base Model (.fit())
             - Error analysis with regression
-            - Evaluation Matrix Comparison (Base Model vs After Polynomial Features)
     - Conclusion
